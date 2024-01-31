@@ -1,0 +1,48 @@
+
+  
+  .admin-login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .admin-login-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background for the form */
+    max-width: 400px;
+  }
+  
+  .admin-login-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .admin-login-form label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .admin-login-form input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  .admin-login-form button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: 20px 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .error-message {
+    color: red;
+    margin: 5px 0;
+  }
+  
