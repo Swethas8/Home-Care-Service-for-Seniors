@@ -1,0 +1,67 @@
+/* .background {
+    position: relative;
+    background-image: url('https://darshanelderscare.com/wp-content/uploads/2023/01/senior-man-on-the-wheelchair-in-the-garden-of-prof-8KXBWBB.jpg');
+    background-size: cover;
+    background-position: center;
+   
+}
+ */
+
+/* ViewServ.css */
+
+.view-service-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    color: #ff0000;
+    margin-bottom: 10px;
+  }
+  
+  .service-list {
+    margin-top: 20px;
+  }
+  
+  .service-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .service-list th,
+  .service-list td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .service-list th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .service-list td {
+    text-align: center;
+  }
+  
+  .service-list .edit-button,
+  .service-list .delete-button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .service-list .edit-button:hover,
+  .service-list .delete-button:hover {
+    background-color: #0056b3;
+  }
+  

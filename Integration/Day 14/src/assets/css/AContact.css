@@ -1,0 +1,24 @@
+/* AContact.css */
+.container {
+    margin: 0;
+    font-family: "Arial, sans-serif";
+    width: 700px;
+  }
+  
+  .form-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10vh auto;
+    max-width: 500px;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  
